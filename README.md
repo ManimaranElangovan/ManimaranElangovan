@@ -1,7 +1,7 @@
 ## About me  
   
 
-### I am a Software Engineer, with overall 6+ years of experience who is passionate about solving problems
+### I am a Software Engineer, with overall 8+ years of experience who is passionate about solving problems
   
 
 - Experienced in NodeJS applications with Express framework in Typescript and Javascript  
